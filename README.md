@@ -1,9 +1,8 @@
 # Functioning prototype
 
-## Interaction Instructions
+## 1. Interaction Instructions
 
-## Details of my individual approach to animating the group code
-
+## 2. Details of my individual approach to animating the group code
 ### I chose Perlin noise to drive my personal code.
 
 ### 
