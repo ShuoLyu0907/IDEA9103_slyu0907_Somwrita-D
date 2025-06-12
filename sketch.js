@@ -184,7 +184,7 @@ class SplitCircle {
     this.noiseX = random(800);
     this.noiseY = random(2000);
     this.noiseSpeed = random(0.0003, 0.001);
-    this.noiseAmplitude = random(10, 60);
+    this.noiseAmplitude = random(20, 60);
   }
 
   display() {
